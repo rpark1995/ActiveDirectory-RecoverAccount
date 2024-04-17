@@ -13,7 +13,7 @@ In this lab, I am going to demonstrate a scenario depicting how a Tier 1 helpdes
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 1) Before doing anything, the first step is to allow the user (in this scenario, John) to explain his issue without interrupting. When the user finishes speaking, you (the helpdesk technician) will ask some questions. For example, you would ask what operating system he is using or whether the login issue occurs anywhere else besides Outlook. Then, allow the user to answer those questions, collecting info to resolve the problem.
 <br />
   <br />
